@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+output/
+jarvis_test.pdf
+memory.db

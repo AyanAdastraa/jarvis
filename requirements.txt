@@ -1,0 +1,13 @@
+openai
+pydantic
+pydantic-settings
+SQLAlchemy
+alembic
+pypdf
+python-docx
+pytest
+python-dotenv
+reportlab
+fastapi
+uvicorn[standard]
+httpx

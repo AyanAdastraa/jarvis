@@ -1,0 +1,215 @@
+t=2026-08-11T15:32:00+0530 lvl=info msg="no configuration paths supplied"
+t=2026-08-11T15:32:00+0530 lvl=info msg="using configuration at default config path" path="/Users/ayan/Library/Application Support/ngrok/ngrok.yml"
+t=2026-08-11T15:32:00+0530 lvl=info msg="open config file" path="/Users/ayan/Library/Application Support/ngrok/ngrok.yml" err=nil
+t=2026-08-11T15:32:00+0530 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2026-08-11T15:32:01+0530 lvl=info msg="client session established" obj=tunnels.session
+t=2026-08-11T15:32:01+0530 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-08-11T15:32:01+0530 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8000 url=https://9a20-203-81-241-45.ngrok-free.app
+t=2026-08-11T15:32:01+0530 lvl=info msg="update available" obj=updater
+t=2026-08-11T15:33:31+0530 lvl=info msg="join connections" obj=join id=be84c21e585a l=127.0.0.1:8000 r=[2a03:2880:1dff:63::]:55436
+t=2026-08-11T15:34:32+0530 lvl=info msg=start pg=/api/requests/http id=0d5dc1aab4a68943
+t=2026-08-11T15:34:32+0530 lvl=info msg=end pg=/api/requests/http id=0d5dc1aab4a68943 status=200 dur=389.542µs
+t=2026-08-11T15:35:10+0530 lvl=info msg="join connections" obj=join id=68fda705e19e l=127.0.0.1:8000 r=[2a03:2880:1dff:70::]:56818
+t=2026-08-11T15:35:48+0530 lvl=info msg=start pg=/api/requests/http id=481502c63c558781
+t=2026-08-11T15:35:48+0530 lvl=info msg=end pg=/api/requests/http id=481502c63c558781 status=200 dur=424.25µs
+t=2026-08-11T15:37:33+0530 lvl=info msg=start pg=/api/requests/http id=b54467c43883defe
+t=2026-08-11T15:37:33+0530 lvl=info msg=end pg=/api/requests/http id=b54467c43883defe status=200 dur=425.625µs
+t=2026-08-11T15:37:49+0530 lvl=info msg=start pg=/api/requests/http id=f3698d75e0fa346c
+t=2026-08-11T15:37:49+0530 lvl=info msg=end pg=/api/requests/http id=f3698d75e0fa346c status=200 dur=419.917µs
+t=2026-08-11T15:44:59+0530 lvl=info msg=start pg=/api/requests/http id=b9094b5740754634
+t=2026-08-11T15:44:59+0530 lvl=info msg=end pg=/api/requests/http id=b9094b5740754634 status=200 dur=693.916µs
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/ id=a82beafd386668ee
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/ id=a82beafd386668ee status=302 dur=622.333µs
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/inspect/http id=0e0f75ccccd593d9
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/inspect/http id=0e0f75ccccd593d9 status=200 dur=355.292µs
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/static/css/app.398abcb27117c32bb620.css id=df8c2692fffed4ee
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/static/js/rpx.c759e3d7683d301d80df.js id=51c9b77d7a69a38e
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/static/js/vendor.a390ab273dc3b6f7b9de.js id=c9d72252641634c2
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/static/js/app.14ee6db97f59e588186b.js id=bee4f886f84f7d54
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/static/js/rpx.c759e3d7683d301d80df.js id=51c9b77d7a69a38e status=200 dur=6.107541ms
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/static/css/app.398abcb27117c32bb620.css id=df8c2692fffed4ee status=200 dur=7.693833ms
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/static/js/app.14ee6db97f59e588186b.js id=bee4f886f84f7d54 status=200 dur=3.775834ms
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/static/js/vendor.a390ab273dc3b6f7b9de.js id=c9d72252641634c2 status=200 dur=6.632416ms
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/grpc/agent.Web/Preloaded id=5d0c2483cca3e3d7
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/grpc/agent.Web/State id=e139be413fb089b9
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/grpc/agent.Web/Preloaded id=5d0c2483cca3e3d7 status=200 dur=2.049333ms
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff2 id=46c55d1e5d49adde
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff2 id=46c55d1e5d49adde status=404 dur=65.875µs
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff id=0cd008c215556cf4
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff id=0cd008c215556cf4 status=404 dur=236.708µs
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.ttf id=1daeade567fd7dc8
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.ttf id=1daeade567fd7dc8 status=404 dur=65.083µs
+t=2026-08-11T15:52:11+0530 lvl=info msg=start pg=/static/favicon.ico id=7911c5783b3be3ed
+t=2026-08-11T15:52:11+0530 lvl=info msg=end pg=/static/favicon.ico id=7911c5783b3be3ed status=200 dur=133.875µs
+t=2026-08-11T15:52:41+0530 lvl=info msg=start pg=/inspect/http id=bc0ce3db0812553e
+t=2026-08-11T15:52:41+0530 lvl=info msg=end pg=/inspect/http id=bc0ce3db0812553e status=200 dur=320.166µs
+t=2026-08-11T15:52:41+0530 lvl=info msg=end pg=/grpc/agent.Web/State id=e139be413fb089b9 status=200 dur=30.012013292s
+t=2026-08-11T15:52:41+0530 lvl=info msg=start pg=/grpc/agent.Web/Preloaded id=fbcc95812775e41d
+t=2026-08-11T15:52:41+0530 lvl=info msg=start pg=/grpc/agent.Web/State id=58c6203551433e0a
+t=2026-08-11T15:52:41+0530 lvl=info msg=end pg=/grpc/agent.Web/Preloaded id=fbcc95812775e41d status=200 dur=253.75µs
+t=2026-08-11T15:52:41+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff2 id=ef3e64e7e46fa839
+t=2026-08-11T15:52:41+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff2 id=ef3e64e7e46fa839 status=404 dur=60.625µs
+t=2026-08-11T15:52:41+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff id=50f81af5707e21bf
+t=2026-08-11T15:52:41+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff id=50f81af5707e21bf status=404 dur=66.708µs
+t=2026-08-11T15:52:41+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.ttf id=473f56bfacd8e6d6
+t=2026-08-11T15:52:41+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.ttf id=473f56bfacd8e6d6 status=404 dur=42.583µs
+t=2026-08-11T15:52:43+0530 lvl=info msg=start pg=/inspect/http id=3681bf64d3edc3be
+t=2026-08-11T15:52:43+0530 lvl=info msg=end pg=/inspect/http id=3681bf64d3edc3be status=200 dur=94.584µs
+t=2026-08-11T15:52:43+0530 lvl=info msg=end pg=/grpc/agent.Web/State id=58c6203551433e0a status=200 dur=1.90029475s
+t=2026-08-11T15:52:43+0530 lvl=info msg=start pg=/grpc/agent.Web/Preloaded id=70235505bb78dd91
+t=2026-08-11T15:52:43+0530 lvl=info msg=start pg=/grpc/agent.Web/State id=0c88d9f4356e3796
+t=2026-08-11T15:52:43+0530 lvl=info msg=end pg=/grpc/agent.Web/Preloaded id=70235505bb78dd91 status=200 dur=259.625µs
+t=2026-08-11T15:52:43+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff2 id=3880cd1f7ca80e99
+t=2026-08-11T15:52:43+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff2 id=3880cd1f7ca80e99 status=404 dur=55.584µs
+t=2026-08-11T15:52:43+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff id=d95c2e4c63151534
+t=2026-08-11T15:52:43+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff id=d95c2e4c63151534 status=404 dur=61.041µs
+t=2026-08-11T15:52:43+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.ttf id=ca04cab2d1411d06
+t=2026-08-11T15:52:43+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.ttf id=ca04cab2d1411d06 status=404 dur=66.375µs
+t=2026-08-11T15:52:44+0530 lvl=info msg=start pg=/inspect/http id=a79f6a4b7c5566d2
+t=2026-08-11T15:52:44+0530 lvl=info msg=end pg=/inspect/http id=a79f6a4b7c5566d2 status=200 dur=281.125µs
+t=2026-08-11T15:52:44+0530 lvl=info msg=end pg=/grpc/agent.Web/State id=0c88d9f4356e3796 status=200 dur=689.036042ms
+t=2026-08-11T15:52:44+0530 lvl=info msg=start pg=/grpc/agent.Web/Preloaded id=d1e175046efc2282
+t=2026-08-11T15:52:44+0530 lvl=info msg=end pg=/grpc/agent.Web/Preloaded id=d1e175046efc2282 status=200 dur=273.916µs
+t=2026-08-11T15:52:44+0530 lvl=info msg=start pg=/grpc/agent.Web/State id=417991f731dc95f5
+t=2026-08-11T15:52:44+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff2 id=b3633f09cb49322e
+t=2026-08-11T15:52:44+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff2 id=b3633f09cb49322e status=404 dur=295.833µs
+t=2026-08-11T15:52:44+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff id=b00d3a144b2055ae
+t=2026-08-11T15:52:44+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff id=b00d3a144b2055ae status=404 dur=42.834µs
+t=2026-08-11T15:52:44+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.ttf id=40a20234b52330a5
+t=2026-08-11T15:52:44+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.ttf id=40a20234b52330a5 status=404 dur=28.417µs
+t=2026-08-11T15:52:45+0530 lvl=info msg=start pg=/inspect/http id=2ba51e154a7a28d4
+t=2026-08-11T15:52:45+0530 lvl=info msg=end pg=/inspect/http id=2ba51e154a7a28d4 status=200 dur=78.75µs
+t=2026-08-11T15:52:45+0530 lvl=info msg=end pg=/grpc/agent.Web/State id=417991f731dc95f5 status=200 dur=636.12875ms
+t=2026-08-11T15:52:45+0530 lvl=info msg=start pg=/grpc/agent.Web/Preloaded id=c571eed629f6076c
+t=2026-08-11T15:52:45+0530 lvl=info msg=start pg=/grpc/agent.Web/State id=dd5556a634017ad8
+t=2026-08-11T15:52:45+0530 lvl=info msg=end pg=/grpc/agent.Web/Preloaded id=c571eed629f6076c status=200 dur=206.625µs
+t=2026-08-11T15:52:45+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff2 id=2a55cc173107d151
+t=2026-08-11T15:52:45+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff2 id=2a55cc173107d151 status=404 dur=35.042µs
+t=2026-08-11T15:52:45+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff id=b1ec01e2e3bf014e
+t=2026-08-11T15:52:45+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff id=b1ec01e2e3bf014e status=404 dur=25µs
+t=2026-08-11T15:52:45+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.ttf id=8c839d5234e2e50c
+t=2026-08-11T15:52:45+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.ttf id=8c839d5234e2e50c status=404 dur=9.834µs
+t=2026-08-11T15:52:46+0530 lvl=info msg=start pg=/grpc/agent.Web/Play id=190d94665fe661f3
+t=2026-08-11T15:52:46+0530 lvl=info msg="replaying request" id=airt_3HlVb3u12HFW02AlyWio3VaNxET tunnelName=command_line
+t=2026-08-11T15:52:46+0530 lvl=info msg="join connections" obj=join id=d2afffa4aa33 l=127.0.0.1:8000 r=nil
+t=2026-08-11T15:52:46+0530 lvl=info msg=end pg=/grpc/agent.Web/Play id=190d94665fe661f3 status=200 dur=9.798ms
+t=2026-08-11T15:52:47+0530 lvl=info msg=start pg=/grpc/agent.Web/Play id=6b1aed1ef9071fd7
+t=2026-08-11T15:52:47+0530 lvl=info msg="replaying request" id=airt_3HlVb3u12HFW02AlyWio3VaNxET tunnelName=command_line
+t=2026-08-11T15:52:47+0530 lvl=info msg="join connections" obj=join id=d2d51d87a7e0 l=127.0.0.1:8000 r=nil
+t=2026-08-11T15:52:47+0530 lvl=info msg=end pg=/grpc/agent.Web/Play id=6b1aed1ef9071fd7 status=200 dur=3.845084ms
+t=2026-08-11T15:52:48+0530 lvl=info msg=start pg=/grpc/agent.Web/Play id=2a25398ea583cd24
+t=2026-08-11T15:52:48+0530 lvl=info msg="replaying request" id=airt_3HlVb3u12HFW02AlyWio3VaNxET tunnelName=command_line
+t=2026-08-11T15:52:48+0530 lvl=info msg="join connections" obj=join id=6f5cd1dff094 l=127.0.0.1:8000 r=nil
+t=2026-08-11T15:52:48+0530 lvl=info msg=end pg=/grpc/agent.Web/Play id=2a25398ea583cd24 status=200 dur=17.088959ms
+t=2026-08-11T15:52:52+0530 lvl=info msg=start pg=/grpc/agent.Web/Clear id=d5c4a943a4af3781
+t=2026-08-11T15:52:52+0530 lvl=info msg=end pg=/grpc/agent.Web/Clear id=d5c4a943a4af3781 status=200 dur=250.875µs
+t=2026-08-11T15:53:12+0530 lvl=info msg="join connections" obj=join id=51b278ba0dca l=127.0.0.1:8000 r=203.81.241.45:30944
+t=2026-08-11T15:53:27+0530 lvl=info msg=start pg=/api/requests/http id=d80df8bf18498dc8
+t=2026-08-11T15:53:27+0530 lvl=info msg=end pg=/api/requests/http id=d80df8bf18498dc8 status=200 dur=481.25µs
+t=2026-08-11T15:54:36+0530 lvl=info msg=start pg=/api/requests/http id=7c1c1e6ff391322a
+t=2026-08-11T15:54:36+0530 lvl=info msg=end pg=/api/requests/http id=7c1c1e6ff391322a status=200 dur=771.875µs
+t=2026-08-11T15:55:45+0530 lvl=info msg="join connections" obj=join id=9ad668c6ddda l=127.0.0.1:8000 r=[2a03:2880:1dff:72::]:55824
+t=2026-08-11T15:57:32+0530 lvl=info msg="join connections" obj=join id=17ca244cb6aa l=127.0.0.1:8000 r=[2a03:2880:1dff:62::]:57262
+t=2026-08-11T15:57:33+0530 lvl=info msg="join connections" obj=join id=00901f9f01b4 l=127.0.0.1:8000 r=[2a03:2880:1dff:64::]:45444
+t=2026-08-11T15:57:33+0530 lvl=info msg="join connections" obj=join id=bc33f70bc889 l=127.0.0.1:8000 r=[2a03:2880:1dff:72::]:54834
+t=2026-08-11T15:57:37+0530 lvl=info msg="join connections" obj=join id=d70e996f2719 l=127.0.0.1:8000 r=[2a03:2880:1dff:64::]:45448
+t=2026-08-11T15:57:37+0530 lvl=info msg="join connections" obj=join id=00c611e79fd3 l=127.0.0.1:8000 r=[2a03:2880:1dff:69::]:47668
+t=2026-08-11T15:58:12+0530 lvl=info msg="join connections" obj=join id=3849e5a92b30 l=127.0.0.1:8000 r=173.252.109.9:50512
+t=2026-08-11T16:04:13+0530 lvl=info msg=start pg=/api/requests/http id=e9a029f75ab35713
+t=2026-08-11T16:04:13+0530 lvl=info msg=end pg=/api/requests/http id=e9a029f75ab35713 status=200 dur=959.083µs
+t=2026-08-11T16:11:28+0530 lvl=info msg=start pg=/api/requests/http id=2374c8026968347f
+t=2026-08-11T16:11:28+0530 lvl=info msg=end pg=/api/requests/http id=2374c8026968347f status=200 dur=1.17925ms
+t=2026-08-11T16:12:30+0530 lvl=info msg=start pg=/api/requests/http id=d5a4a406242d5252
+t=2026-08-11T16:12:30+0530 lvl=info msg=end pg=/api/requests/http id=d5a4a406242d5252 status=200 dur=1.579ms
+t=2026-08-11T16:27:57+0530 lvl=info msg=start pg=/api/requests/http id=d7efe73f403e8dba
+t=2026-08-11T16:27:57+0530 lvl=info msg=end pg=/api/requests/http id=d7efe73f403e8dba status=200 dur=1.584292ms
+t=2026-08-11T16:28:08+0530 lvl=info msg=start pg=/api/tunnels id=a38dd092077da843
+t=2026-08-11T16:28:08+0530 lvl=info msg=end pg=/api/tunnels id=a38dd092077da843 status=200 dur=15.453542ms
+t=2026-08-11T16:30:55+0530 lvl=info msg=start pg=/api/requests/http id=4f7be92b16f94d48
+t=2026-08-11T16:30:55+0530 lvl=info msg=end pg=/api/requests/http id=4f7be92b16f94d48 status=200 dur=2.001125ms
+t=2026-08-11T16:32:54+0530 lvl=info msg="join connections" obj=join id=b1d0832b4744 l=127.0.0.1:8000 r=[2a03:2880:1dff:63::]:52532
+t=2026-08-11T16:33:25+0530 lvl=info msg=start pg=/api/tunnels id=ab2a3ee9905197f3
+t=2026-08-11T16:33:25+0530 lvl=info msg=end pg=/api/tunnels id=ab2a3ee9905197f3 status=200 dur=1.101375ms
+t=2026-08-11T16:34:58+0530 lvl=info msg=start pg=/api/requests/http id=49324245740bf7eb
+t=2026-08-11T16:34:58+0530 lvl=info msg=end pg=/api/requests/http id=49324245740bf7eb status=200 dur=1.427416ms
+t=2026-08-11T16:37:39+0530 lvl=info msg=start pg=/api/requests/http id=be4c96d950daafb4
+t=2026-08-11T16:37:39+0530 lvl=info msg=end pg=/api/requests/http id=be4c96d950daafb4 status=200 dur=1.384417ms
+t=2026-08-11T16:37:54+0530 lvl=info msg=start pg=/api/requests/http id=11e8009fe09b0bcb
+t=2026-08-11T16:37:54+0530 lvl=info msg=end pg=/api/requests/http id=11e8009fe09b0bcb status=200 dur=1.257708ms
+t=2026-08-11T16:43:54+0530 lvl=info msg=start pg=/api/requests/http id=c576f2e7d0e3dc7b
+t=2026-08-11T16:43:54+0530 lvl=info msg=end pg=/api/requests/http id=c576f2e7d0e3dc7b status=200 dur=1.671125ms
+t=2026-08-11T16:44:38+0530 lvl=info msg=start pg=/api/tunnels id=c2590bf1f34f966b
+t=2026-08-11T16:44:38+0530 lvl=info msg=end pg=/api/tunnels id=c2590bf1f34f966b status=200 dur=1.071083ms
+t=2026-08-11T16:50:45+0530 lvl=warn msg="failed to open private leg" id=96acaa53fb3f privaddr=localhost:8000 err="dial tcp 127.0.0.1:8000: connect: connection refused"
+t=2026-08-11T16:50:52+0530 lvl=warn msg="failed to open private leg" id=c5cf9c46e6da privaddr=localhost:8000 err="dial tcp 127.0.0.1:8000: connect: connection refused"
+t=2026-08-11T16:51:45+0530 lvl=info msg=start pg=/api/tunnels id=67a46bfd68dd3c76
+t=2026-08-11T16:51:45+0530 lvl=info msg=end pg=/api/tunnels id=67a46bfd68dd3c76 status=200 dur=1.658792ms
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/inspect/http id=c0dea0128d7d6e02
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/inspect/http id=c0dea0128d7d6e02 status=200 dur=2.619792ms
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/grpc/agent.Web/State id=dd5556a634017ad8 status=200 dur=1h0m44.848960666s
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/static/js/vendor.a390ab273dc3b6f7b9de.js id=9fc0218c92aace3c
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/static/js/rpx.c759e3d7683d301d80df.js id=747bc90958a727e7
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/static/js/app.14ee6db97f59e588186b.js id=75b0492953737af2
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/static/css/app.398abcb27117c32bb620.css id=dd8ecf979e308943
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/static/js/rpx.c759e3d7683d301d80df.js id=747bc90958a727e7 status=304 dur=1.053709ms
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/static/js/app.14ee6db97f59e588186b.js id=75b0492953737af2 status=304 dur=1.127542ms
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/static/css/app.398abcb27117c32bb620.css id=dd8ecf979e308943 status=304 dur=1.763083ms
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/static/js/vendor.a390ab273dc3b6f7b9de.js id=9fc0218c92aace3c status=304 dur=6.025125ms
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/grpc/agent.Web/State id=78944f9d14d79f6e
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/grpc/agent.Web/Preloaded id=86856b02cc0adfba
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/grpc/agent.Web/Preloaded id=86856b02cc0adfba status=200 dur=2.01225ms
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/static/favicon.ico id=fa6de1444e6e6748
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/static/favicon.ico id=fa6de1444e6e6748 status=304 dur=511.833µs
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff2 id=561792091944cc25
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff2 id=561792091944cc25 status=404 dur=49.834µs
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff id=e062885ff0e6f233
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff id=e062885ff0e6f233 status=404 dur=56.25µs
+t=2026-08-11T16:53:30+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.ttf id=47e7941d0b65cb86
+t=2026-08-11T16:53:30+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.ttf id=47e7941d0b65cb86 status=404 dur=58.333µs
+t=2026-08-11T16:53:31+0530 lvl=info msg=start pg=/inspect/http id=dcb789777c6d64f0
+t=2026-08-11T16:53:31+0530 lvl=info msg=end pg=/inspect/http id=dcb789777c6d64f0 status=200 dur=377.458µs
+t=2026-08-11T16:53:31+0530 lvl=info msg=end pg=/grpc/agent.Web/State id=78944f9d14d79f6e status=200 dur=1.489802125s
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/grpc/agent.Web/Preloaded id=06817730fb6cf930
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/grpc/agent.Web/Preloaded id=06817730fb6cf930 status=200 dur=495.792µs
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/grpc/agent.Web/State id=7bfdcc3e5d78fb77
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff2 id=db201824786e7f3c
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff2 id=db201824786e7f3c status=404 dur=143.208µs
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff id=72e9226be5471201
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff id=72e9226be5471201 status=404 dur=38.125µs
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.ttf id=1d9b0f3abd4fa9d6
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.ttf id=1d9b0f3abd4fa9d6 status=404 dur=20.459µs
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/inspect/http id=7f5cfbdb1996fbb7
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/inspect/http id=7f5cfbdb1996fbb7 status=200 dur=234.916µs
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/grpc/agent.Web/State id=7bfdcc3e5d78fb77 status=200 dur=626.070334ms
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/grpc/agent.Web/Preloaded id=7bc03f95a934737f
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/grpc/agent.Web/State id=4c5e5d8a91d85695
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/grpc/agent.Web/Preloaded id=7bc03f95a934737f status=200 dur=666.125µs
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff2 id=dd9138b0483b3d61
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff2 id=dd9138b0483b3d61 status=404 dur=47.542µs
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.woff id=24854be2fbb2d88d
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.woff id=24854be2fbb2d88d status=404 dur=110.792µs
+t=2026-08-11T16:53:32+0530 lvl=info msg=start pg=/static/assets/glyphicons-halflings-regular.ttf id=ed2b50a154866b9f
+t=2026-08-11T16:53:32+0530 lvl=info msg=end pg=/static/assets/glyphicons-halflings-regular.ttf id=ed2b50a154866b9f status=404 dur=59.666µs
+t=2026-08-11T16:53:57+0530 lvl=info msg=start pg=/api/requests/http id=0e41cfd4620c2bbb
+t=2026-08-11T16:53:57+0530 lvl=info msg=end pg=/api/requests/http id=0e41cfd4620c2bbb status=200 dur=1.768208ms
+t=2026-08-11T16:54:46+0530 lvl=info msg=start pg=/api/requests/http id=60afa0eced4bedf2
+t=2026-08-11T16:54:46+0530 lvl=info msg=end pg=/api/requests/http id=60afa0eced4bedf2 status=200 dur=895.166µs
+t=2026-08-11T16:55:14+0530 lvl=info msg="join connections" obj=join id=fd361019a880 l=127.0.0.1:8000 r=203.81.241.45:31232
+t=2026-08-11T16:56:08+0530 lvl=info msg=start pg=/api/requests/http id=97f3d9c296aaf139
+t=2026-08-11T16:56:08+0530 lvl=info msg=end pg=/api/requests/http id=97f3d9c296aaf139 status=200 dur=432.541µs
+t=2026-08-11T16:58:11+0530 lvl=info msg=start pg=/api/requests/http id=692b8c6c25faece4
+t=2026-08-11T16:58:11+0530 lvl=info msg=end pg=/api/requests/http id=692b8c6c25faece4 status=200 dur=730.958µs
+t=2026-08-11T16:58:37+0530 lvl=info msg=start pg=/api/tunnels id=2f4bf1d41f943090
+t=2026-08-11T16:58:37+0530 lvl=info msg=end pg=/api/tunnels id=2f4bf1d41f943090 status=200 dur=356.458µs
+t=2026-08-11T17:00:41+0530 lvl=info msg=start pg=/api/requests/http id=37a81f90181e8d0e
+t=2026-08-11T17:00:41+0530 lvl=info msg=end pg=/api/requests/http id=37a81f90181e8d0e status=200 dur=1.425792ms
+t=2026-08-11T17:01:03+0530 lvl=info msg=start pg=/api/requests/http id=4835c85d343a3dc0
+t=2026-08-11T17:01:03+0530 lvl=info msg=end pg=/api/requests/http id=4835c85d343a3dc0 status=200 dur=957.75µs
+t=2026-08-11T17:01:27+0530 lvl=info msg=start pg=/api/requests/http id=75cbabf5978eaa0e
+t=2026-08-11T17:01:27+0530 lvl=info msg=end pg=/api/requests/http id=75cbabf5978eaa0e status=200 dur=476.292µs
+t=2026-08-11T17:02:15+0530 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2026-08-11T17:02:15+0530 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2026-08-11T17:02:15+0530 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=177754433140 err="reconnecting session closed"
+t=2026-08-11T17:02:15+0530 lvl=info msg="failed to accept connection: Listener closed" obj=tunnels.session clientid=8902a82aa245a40da10607afac8c0790
+t=2026-08-11T17:02:15+0530 lvl=warn msg="Stopping forwarder" name=command_line acceptErr="failed to accept connection: Listener closed"
+t=2026-08-11T17:02:15+0530 lvl=info msg="no more state changes" obj=tunnels.session
